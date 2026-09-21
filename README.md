@@ -102,6 +102,6 @@ No universal answer — that's the point of building all three:
 
 ## GitHub repo
 
-Code for this project is committed locally in this repository
-(`projects/2026-09-13-intermediate-ratelimitkit/`) and pending Frank's
-manual push to https://github.com/fikris6889-tech/daily-teaching-series.
+This project is live at: <https://github.com/fikris6889-tech/ratelimitkit>
+
+Part of the **Fikris Lab** portfolio of systems and algorithms projects: <https://github.com/fikris6889-tech/Fikris-lab>
